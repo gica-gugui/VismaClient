@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VismaClient", "VismaClient\VismaClient.csproj", "{0ACC1499-FABC-495E-889B-F9A5EF497DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACC1499-FABC-495E-889B-F9A5EF497DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACC1499-FABC-495E-889B-F9A5EF497DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACC1499-FABC-495E-889B-F9A5EF497DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACC1499-FABC-495E-889B-F9A5EF497DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1E6373-9D2B-4AFA-A5C1-ED87C69A994E}
+	EndGlobalSection
+EndGlobal

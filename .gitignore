@@ -3,3 +3,5 @@
 ################################################################################
 
 /VismaClient/.vs/VismaClient
+/VismaClient/VismaClient/bin/Debug/netcoreapp3.1
+/VismaClient/VismaClient/obj
